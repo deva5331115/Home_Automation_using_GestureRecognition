@@ -1,0 +1,12 @@
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Fist
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/One
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Two
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Three
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Four
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Five-palm
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/OK
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Thumbs_up
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Thumbs_down
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Stop
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Direction_left
+C:/deva/Miniproject/automation-using-hand-gestures-master/Dataset/Direction_right
